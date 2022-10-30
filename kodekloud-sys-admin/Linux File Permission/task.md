@@ -8,11 +8,11 @@ Please give executable permissions to /tmp/xfusioncorp.sh script on App Server 2
 
 ```bash
 # Login in to the application server
-ssh steve@stapp01
+ssh steve@stapp02
 
 
 # Checking File Permissions of the executable file
-sudo ls -l /tmp/xfusioncorp.sh
+ls -l /tmp/xfusioncorp.sh
 
 
 # Granting all other user permission to execute the script file
