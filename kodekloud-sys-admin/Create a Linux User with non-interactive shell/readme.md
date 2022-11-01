@@ -15,7 +15,7 @@ ssh steve@172.16.238.11
 cut -d: -f1 /etc/passwd
 
 # add user who cannot login
-sudo adduser rose -s /sbin/nologin
+sudo adduser rose -s /sbin/nologin # or /bin/false
 
 # get updated list of users
 cut -d: -f1 /etc/passwd
