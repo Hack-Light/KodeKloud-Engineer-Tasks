@@ -13,3 +13,5 @@ Contains tasks assigned by kodekloud for the `Nautilus` project and their soluti
 - #### [Linux TimeZones Setting](./kodekloud-sys-admin/Linux%20TimeZones%20Setting/)
 
 - #### [MariaDB Troubleshooting](./kodekloud-sys-admin/MariaDB%20Troubleshooting/)
+
+- #### [Linux SSH Authentication](./kodekloud-sys-admin/Linux%20SSH%20Authentication/)
