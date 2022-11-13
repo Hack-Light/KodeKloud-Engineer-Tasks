@@ -37,5 +37,4 @@ sudo crontab -l
 
 # view cron jobs by the root user
 sudo crontab -u root -l
-``
 ```
