@@ -27,3 +27,5 @@ Contains tasks assigned by kodekloud for the `Nautilus` project and their soluti
 - #### [Linux Run Levels](./kodekloud-sys-admin/Linux%20Run%20Levels/)
 
 - #### [Linux User Expiry](./kodekloud-sys-admin/Linux%20User%20Expiry/)
+
+- #### [Linux String Substitute (sed)](<./kodekloud-sys-admin/Linux%20String%20Substitute%20(sed)/>)
