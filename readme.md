@@ -31,3 +31,7 @@ Contains tasks assigned by kodekloud for the `Nautilus` project and their soluti
 - #### [Linux String Substitute (sed)](<./kodekloud-sys-admin/Linux%20String%20Substitute%20(sed)/>)
 
 - #### [DNS Troubleshooting](./kodekloud-sys-admin/DNS%20Troubleshooting/)
+
+- #### [Selinux Installation](./kodekloud-sys-admin/Selinux%20Installation/)
+
+- #### [Linux Remote Copy](./kodekloud-sys-admin/Linux%20Remote%20Copy/)
