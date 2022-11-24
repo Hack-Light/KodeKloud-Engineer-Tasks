@@ -1,4 +1,4 @@
-# QUESTION
+# TASK
 
 As per details shared by the development team, the new application release has some dependencies on the back end. There are some packages/services that need to be installed on all app servers under `Stratos Datacenter`. As per requirements please perform the following steps:
 
@@ -7,7 +7,6 @@ As per details shared by the development team, the new application release has s
 2. Once installed, make sure it is enabled to start during boot.
 
 # SOLUTION
-
 
 ```bash
 # ssh into the server
@@ -25,7 +24,7 @@ sudo apt -y install cups
 # check the status of the installed service
 sudo systemctl status cups.service
 
-# if the service is not running, then run this 
+# if the service is not running, then run this
 sudo systemctl start cups.service
 
 # run this command to enable the service auto start up on reboot

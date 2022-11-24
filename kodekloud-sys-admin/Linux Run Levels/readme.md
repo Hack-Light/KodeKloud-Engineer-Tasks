@@ -1,4 +1,4 @@
-# QUESTION
+# TASK
 
 New tools have been installed on the app server in Stratos Datacenter. **Some of these tools can only be managed from the graphical user interface.** Therefore, there are requirements for these app servers.
 
