@@ -37,3 +37,5 @@ Contains tasks assigned by kodekloud for the `Nautilus` project and their soluti
 - #### [Linux Remote Copy](./kodekloud-sys-admin/Linux%20Remote%20Copy/)
 
 - #### [Linux User Without Home](./kodekloud-sys-admin/Linux%20User%20Without%20Home/)
+
+- #### [Linux String Substitute](./kodekloud-sys-admin/Linux%20String%20Substitute/)
