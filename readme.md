@@ -39,3 +39,7 @@ Contains tasks assigned by kodekloud for the `Nautilus` project and their soluti
 - #### [Linux User Without Home](./kodekloud-sys-admin/Linux%20User%20Without%20Home/)
 
 - #### [Linux String Substitute](./kodekloud-sys-admin/Linux%20String%20Substitute/)
+
+- #### [Linux NTP Setup](./kodekloud-sys-admin/Linux%20NTP%20Setup/)
+
+- #### [Application Security](./kodekloud-sys-admin/Application%20Security/)
