@@ -44,4 +44,6 @@ Contains tasks assigned by kodekloud for the `Nautilus` project and their soluti
 
 - #### [Application Security](./kodekloud-sys-admin/Application%20Security/)
 
-- #### [Linux Configure sudo](./kodekloud-sys-admin/Linux%20Configure%20sudo//)
+- #### [Linux Configure sudo](./kodekloud-sys-admin/Linux%20Configure%20sudo/)
+
+- #### [Install a package](./kodekloud-sys-admin/Install%20a%20package/)
