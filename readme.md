@@ -47,3 +47,5 @@ Contains tasks assigned by kodekloud for the `Nautilus` project and their soluti
 - #### [Linux Configure sudo](./kodekloud-sys-admin/Linux%20Configure%20sudo/)
 
 - #### [Install a package](./kodekloud-sys-admin/Install%20a%20package/)
+
+- #### [Web Server Security](./kodekloud-sys-admin/Web%20Server%20Security/)
