@@ -51,3 +51,5 @@ Contains tasks assigned by kodekloud for the `Nautilus` project and their soluti
 - #### [Web Server Security](./kodekloud-sys-admin/Web%20Server%20Security/)
 
 - #### [Linux Find Command](./kodekloud-sys-admin/Linux%20Find%20Command/)
+
+- #### [Bash Scripting](./kodekloud-sys-admin/Bash%20Scripting/)
