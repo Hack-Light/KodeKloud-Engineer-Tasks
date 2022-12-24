@@ -1,5 +1,7 @@
 # KODEKLOUD ENGINEER TASKS
 
+![Project Nautilus Application Architecture](Kodekloud%20engineer.png)
+
 ## SYSTEM ADMIN TASKS
 
 Contains tasks assigned by kodekloud for the `Nautilus` project and their solutions.
@@ -53,3 +55,5 @@ Contains tasks assigned by kodekloud for the `Nautilus` project and their soluti
 - #### [Linux Find Command](./kodekloud-sys-admin/Linux%20Find%20Command/)
 
 - #### [Bash Scripting](./kodekloud-sys-admin/Bash%20Scripting/)
+
+- #### [Add Response Headers in Apache](./kodekloud-sys-admin/Add%20Response%20Headers%20in%20Apache/)
